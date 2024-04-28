@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Ellen Lee</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Ellen Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>ellenlee@hawaii.edu (Ellen Lee)</managingEditor>
+    <webMaster>ellenlee@hawaii.edu (Ellen Lee)</webMaster>
+    <copyright>Ellen Lee (CC BY 4.0)</copyright>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First light of IRTF-ASM-1</title>
+      <link>http://localhost:1313/blog/20240423_first_light/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
+      <guid>http://localhost:1313/blog/20240423_first_light/</guid>
+      <description>IRTF-1 had first light on.</description>
+      <content:encoded><![CDATA[<p>IRTF-1 had first light on.</p>
+<p><img alt="group photo in front of IRTF after first light of IRTF-ASM-1" src="/blog/20240423_FKamphues_group.jpg"></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

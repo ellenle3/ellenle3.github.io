@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ellen Lee</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ellen Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>ellenlee@hawaii.edu (Ellen Lee)</managingEditor>
+    <webMaster>ellenlee@hawaii.edu (Ellen Lee)</webMaster>
+    <copyright>Ellen Lee (CC BY 4.0)</copyright>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/pages/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
+      <guid>http://localhost:1313/pages/research/</guid>
+      <description>IRTF-ASM-1 This includes basic verification&amp;hellip;&#xA;my SPIE paper Suz&amp;rsquo;s close loop paper I am also working to facilitize IRTF&amp;rsquo;s adaptive secondary mirror (ASM) with the off-axis facility guider FELIX. Disk imaging SCExAO NIR WFS&#xA;Other Projects High-resolution spectroscopy of FU Orionis objects iSHELL&#xA;Misc. IRTF instrumentation I&amp;rsquo;m an RA for IRTF&#xA;&amp;lsquo;Opihi: Spectre: I also use IRTF&amp;rsquo;s near-IR spectrographs iSHELL (R~55,000) and SpeX (R~2,500) to support my disk imaging campaign with SCExAO on Subaru.</description>
+      <content:encoded><![CDATA[<h2 id="irtf-asm-1">IRTF-ASM-1</h2>
+<p>This includes basic verification&hellip;</p>
+<ul>
+<li>my SPIE paper</li>
+<li>Suz&rsquo;s close loop paper
+I am also working to facilitize IRTF&rsquo;s adaptive secondary mirror (ASM) with the off-axis facility guider FELIX.</li>
+</ul>
+<h2 id="disk-imaging">Disk imaging</h2>
+<p>SCExAO NIR WFS</p>
+<h2 id="other-projects">Other Projects</h2>
+<h3 id="high-resolution-spectroscopy-of-fu-orionis-objects">High-resolution spectroscopy of FU Orionis objects</h3>
+<p>iSHELL</p>
+<h3 id="misc-irtf-instrumentation">Misc. IRTF instrumentation</h3>
+<p>I&rsquo;m an RA for IRTF</p>
+<ul>
+<li><a href="http://irtfweb.ifa.hawaii.edu/~opihi/">&lsquo;Opihi:</a></li>
+<li><a href="http://irtfweb.ifa.hawaii.edu/~spectre/">Spectre:</a></li>
+</ul>
+<p>I also use IRTF&rsquo;s near-IR spectrographs iSHELL (R~55,000) and SpeX (R~2,500)
+to support my disk imaging campaign with SCExAO on Subaru. I&rsquo;ve touched
+almost every instrument on IRTF at this point&hellip; Just need an excuse to
+observe in the mid-infrared with MIRSI..</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/pages/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
+      <guid>http://localhost:1313/pages/tools/</guid>
+      <description>asmtools ABCD&#xA;elgyem This package isn&amp;rsquo;t availalbe on pip for export control reasons, but the source code is available at this repository.</description>
+      <content:encoded><![CDATA[<h2 id="asmtools">asmtools</h2>
+<p>ABCD</p>
+<h2 id="elgyem">elgyem</h2>
+<p>This package isn&rsquo;t availalbe on pip for export control reasons, but the source
+code is available at this repository.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Outreach</title>
+      <link>http://localhost:1313/pages/outreach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
+      <guid>http://localhost:1313/pages/outreach/</guid>
+      <description>Communicating science to the public is especially important in Hawai&amp;rsquo;i, where we have the enormous privilege of observing from Maunakea. Here are the main activities that I&amp;rsquo;m involved with:&#xA;Maunakea scholars JTTU Astroday SciOly Other than that, I regularly participate in outreach events around the Big Island. </description>
+      <content:encoded><![CDATA[<p>Communicating science to the public is especially important in Hawai&rsquo;i,
+where we have the enormous privilege of observing from Maunakea. Here
+are the main activities that I&rsquo;m involved with:</p>
+<ul>
+<li>Maunakea scholars</li>
+<li>JTTU</li>
+<li>Astroday</li>
+<li>SciOly
+Other than that, I regularly participate in outreach events around the
+Big Island.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>potpourri</title>
+      <link>http://localhost:1313/pages/potpourri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
+      <guid>http://localhost:1313/pages/potpourri/</guid>
+      <description>my friends Click here to see some awesome atmospheric phenomena&#xA;ancient history As an undergraduate1, I worked on submm/far-IR instrumentation with Gordon Stacey. Most of my work was optomechanical design, although I ended up touching a lot of different projects during my 3 years in that lab. Here are a few highlights:&#xA;EoR-Spec: ZEUS-2: HIRMES: Rest in peace. I also had a brief stint working at NASA GSFC. The summer before I advanced to candidacy, I worked with Terra Hardwick in the Mars Sample Return (MSR) Capture, Containment and Return System (CCRS) Vision System (VS) lab (phew&amp;hellip; NASA sure loves complicated acronyms).</description>
+      <content:encoded><![CDATA[<h2 id="my-friends">my friends</h2>
+<p><img alt="my bookshelf is full of dragons" src="/friends.png"></p>
+<p><a href="../clouds">Click here</a> to see some awesome atmospheric phenomena</p>
+<h2 id="ancient-history">ancient history</h2>
+<p>As an undergraduate<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, I worked on submm/far-IR
+instrumentation with Gordon Stacey. Most of my work was optomechanical
+design, although I ended up touching a lot of different projects during
+my 3 years in that lab. Here are a few highlights:</p>
+<ul>
+<li>EoR-Spec:</li>
+<li>ZEUS-2:</li>
+<li>HIRMES: Rest in peace.</li>
+</ul>
+<p>I also had a brief stint working at NASA GSFC. The summer before I advanced
+to candidacy, I worked with Terra Hardwick in the Mars Sample Return (MSR)
+Capture, Containment and Return System (CCRS) Vision System (VS) lab
+(phew&hellip; NASA sure loves complicated acronyms). I created a software
+package that automatically preprocesses image data generated with FRED
+and trains a convolutional neural network to perform orientation checks
+of the orbiting Mars samples.</p>
+<p>I feel very fortunate to have worked with wonderful people at the earliest
+stages of my academic career. Thanks for everything, everyone! &lt;3</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>I technically started even earlier than this.
+When I was in high school, I volunteered UCSD for a few weeks to fabricate
+lenslet arrays for POLARBEAR-2. I didn&rsquo;t know anything about instrumenation
+at the time, let alone that I would end up going into this field (albeit
+at shorter wavelengths). Those were the days&hellip;&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>First light of IRTF-ASM-1</title>
+      <link>http://localhost:1313/blog/20240423_first_light/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
+      <guid>http://localhost:1313/blog/20240423_first_light/</guid>
+      <description>IRTF-1 had first light on.</description>
+      <content:encoded><![CDATA[<p>IRTF-1 had first light on.</p>
+<p><img alt="group photo in front of IRTF after first light of IRTF-ASM-1" src="/blog/20240423_FKamphues_group.jpg"></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>the atmosphere</title>
+      <link>http://localhost:1313/pages/clouds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
+      <guid>http://localhost:1313/pages/clouds/</guid>
+      <description>Check out the Maunakea Weather Center. They have webcams of the summit and interesting meterological information in their forecasts.&#xA;lenticular clouds Have you ever been in 70 mph winds at 14,000 ft above sea level? No? Good. It&amp;rsquo;s pretty dangerous, especially if there&amp;rsquo;s ice on the road.&#xA;Here are some cool ones above Hilo&#xA;nice inversion layer atmospheric optics 22 degree haloes Sun dog I have no idea what&amp;rsquo;s going on here but it looks great </description>
+      <content:encoded><![CDATA[<p><a href="http://mkwc.ifa.hawaii.edu/">Check out the Maunakea Weather Center.</a> They have
+webcams of the summit and interesting meterological information in their forecasts.</p>
+<h2 id="lenticular-clouds">lenticular clouds</h2>
+<p>Have you ever been in 70 mph winds at 14,000 ft above sea level? No? Good. It&rsquo;s
+pretty dangerous, especially if there&rsquo;s ice on the road.</p>
+<p><img alt="lenticular clouds above Saddle Road" src="/atmosphere/lenticular-5.jpeg">
+<img alt="more lenticular clouds above Saddle Road" src="../../../assets/atmosphere/lenticular-7.jpeg"></p>
+<p>Here are some cool ones above Hilo</p>
+<p><img alt="lenticular clouds above IfA Hilo" src="/atmosphere/lenticular-1.jpeg">
+<img alt="more lenticular clouds above IfA Hilo" src="/atmosphere/lenticular-3.jpeg">
+<img alt="even more lenticular clouds above IfA Hilo" src="/assets/atmosphere/lenticular-4.jpeg"></p>
+<h2 id="nice-inversion-layer">nice inversion layer</h2>
+<p><img alt="Layer of clouds below Maunakea" src="/atmosphere/clouds_maunakea-2.jpeg"></p>
+<h2 id="atmospheric-optics">atmospheric optics</h2>
+<p>22 degree haloes
+<img alt="22 degree halo above San Diego" src="/atmosphere/halo-1.jpeg">
+<img alt="22 degree Moon halo at Hale Pohaku" src="/atmosphere/halo-2.jpeg"></p>
+<p>Sun dog
+<img alt="Sun dogs in San Diego" src="/atmosphere/halo-3.jpeg"></p>
+<h2 id="i-have-no-idea-whats-going-on-here-but-it-looks-great">I have no idea what&rsquo;s going on here but it looks great</h2>
+<p><img alt="clouds near my family home" src="/atmosphere/bonita-2.jpeg"></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
