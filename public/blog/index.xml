@@ -1,24 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on Ellen Lee</title>
+    <title>Ellen Lee</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blogs on Ellen Lee</description>
+    <description>Recent content on Ellen Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>ellenlee@hawaii.edu (Ellen Lee)</managingEditor>
     <webMaster>ellenlee@hawaii.edu (Ellen Lee)</webMaster>
     <copyright>Ellen Lee (CC BY 4.0)</copyright>
-    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:52:41 -1000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First light of IRTF-ASM-1</title>
-      <link>http://localhost:1313/blog/20240423_first_light/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
-      <guid>http://localhost:1313/blog/20240423_first_light/</guid>
-      <description>IRTF-1 had first light on.</description>
-      <content:encoded><![CDATA[<p>IRTF-1 had first light on.</p>
-<p><img alt="group photo in front of IRTF after first light of IRTF-ASM-1" src="/blog/20240423_FKamphues_group.jpg"></p>
+      <title>First light of IRTF&#39;s adaptive secondary mirror</title>
+      <link>http://localhost:1313/blog/20240428_first_light/</link>
+      <pubDate>Sun, 28 Apr 2024 00:52:41 -1000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
+      <guid>http://localhost:1313/blog/20240428_first_light/</guid>
+      <description>We successfully completed our first engineering run with IRTF-ASM-1 on Friday. This marks a number of milestones:&#xA;IRTF achieved stable diffraction-limited image quality for the first time. IRTF-ASM-1 is the first adaptive secondary mirror on Maunakea. This is the first on-sky demonstration of the hybrid-variable reluctance actuator technology developed by TNO. Overall, the run went exceptionally well despite the highly compressed timeline of this project. We obtained closed-loop, diffraction-limited images (Strehl ~ 40% in H-band over 5 minutes of integration) and successfully ran the system under a variety of seeing conditions (0.</description>
+      <content:encoded><![CDATA[<p>We successfully completed our first engineering run with IRTF-ASM-1 on Friday.
+This marks a number of milestones:</p>
+<ul>
+<li>IRTF achieved stable diffraction-limited image quality for the first time.</li>
+<li>IRTF-ASM-1 is the first adaptive secondary mirror on Maunakea.</li>
+<li>This is the first on-sky demonstration of the hybrid-variable reluctance actuator
+technology developed by TNO.</li>
+</ul>
+<p>Overall, the
+run went exceptionally well despite <a href="/blog/20240428/Mikroniek-2024.pdf">the highly compressed timeline</a>
+of this project. We obtained closed-loop, diffraction-limited images (Strehl ~ 40%
+in H-band over 5 minutes of integration) and successfully ran the system under a
+variety of seeing conditions (0.4&quot; to 0.9&quot;). The first light image was acquired
+on <a href="https://blog.bishopmuseum.org/history/hokulea/">Hokule&rsquo;a</a>, which is a tradition
+at IRTF.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p align="center">
+  <img src="/blog/20240428/hokulea_irtf-1.jpg" alt="snapshot closed loop on Hokule'a"/>
+</p>
+<p>We had a great team of people all around, including our collaborators at TNO, UCSC,
+and IRTF staff. Special thanks in no particular order:</p>
+<ul>
+<li>IRTF day crew: Paul, Keith, Dwight, Jun, and Darryl supported major work at the
+telescope for several months and on short notice.</li>
+<li>Our director: John has been very generous with observing time and funding for
+the ASM and has been working to balance that with IRTF science.</li>
+<li>Telescope operators and assistants: Brian, Bernie, and Frankie supported our
+observations the three nights.</li>
+<li>TNO: Fred and Saunder took a long flight from the Netherlands to document this
+process for National Geographic. Max also joined remotely to help debug the controllers.</li>
+<li>Olivier flew in from France to support the first two runs and has helped us
+with lab testing as well.</li>
+<li>IfA Hilo: Suzanne, Mike, and Mark have kept me sane in the lab.</li>
+</ul>
+<p><img alt="group photo in front of IRTF after first light of IRTF-ASM-1; credit: Fred Kamphues" src="/blog/20240428/FKamphues_group.jpg"></p>
+<p>The run started on the morning of April 23. The day crew performed a top end
+exchange to put the ASM on the telescope. We closed the loop around 2 AM on the
+first night after dealing with alignment issues, and the RTC fighting the facility
+guider. The run ended on April 26 after three full, productive nights at the
+telescope.</p>
+<p>We have a ton of data to analyze over the coming weeks, both for presenting basic
+on-sky functionality at SPIE and FELIX-like (fast low-order + slow high-order)
+correction for my dissertation. Not bad considering that we recieved the ASM from
+TNO in mid-February! It&rsquo;s hard to believe that that things went so smoothly given
+all of the problems that even mature adaptive optics systems tend to have, let
+alone a new technology.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Because we were worried about flexure, we also got away
+with disassembling and reconfiguring the entire wavefront sensor breadboard ~2
+weeks before the run began&hellip; The past few weeks have felt like months to me.</p>
+<p>Last but certainly not least, the weather was cooperative. The sky was clear
+throughout the run. As we were leaving the summit after our last night at IRTF,
+we could see cirrus clouds starting to come over the horizon. Talk about good
+luck!</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Definitely not a coincidence and totally planned on my part. Hokule&rsquo;a (known
+to most in the West as <a href="https://en.wikipedia.org/wiki/Arcturus">Arcturus</a> or
+<a href="http://simbad.cds.unistra.fr/simbad/sim-id?Ident=alf+boo">α Boo</a>) is a
+prime first light target because it&rsquo;s <em>very</em> bright and goes through zenith at
+Hawai&rsquo;i&rsquo;s latitude. The same reasons make it important for Polynesian navigation.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Lots of firsts this run. The response of the ASM is somewhat slow due to the
+thickness of the facesheet. The seeing makes it difficult create interaction matrices
+on-sky by poking individual actuators and we don&rsquo;t have an intermediate focal plane
+to work with at IRTF. Olivier came up with a new method to generate interaction
+matrices by sinusoidally modulating the actuators. This method (CACOFONI) will be
+described in an upcoming paper.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 ]]></content:encoded>
     </item>
   </channel>

@@ -9,26 +9,38 @@
     <managingEditor>ellenlee@hawaii.edu (Ellen Lee)</managingEditor>
     <webMaster>ellenlee@hawaii.edu (Ellen Lee)</webMaster>
     <copyright>Ellen Lee (CC BY 4.0)</copyright>
-    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:52:41 -1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
       <link>http://localhost:1313/pages/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
       <guid>http://localhost:1313/pages/research/</guid>
-      <description>IRTF-ASM-1 This includes basic verification&amp;hellip;&#xA;my SPIE paper Suz&amp;rsquo;s close loop paper I am also working to facilitize IRTF&amp;rsquo;s adaptive secondary mirror (ASM) with the off-axis facility guider FELIX. Disk imaging SCExAO NIR WFS&#xA;Other Projects High-resolution spectroscopy of FU Orionis objects iSHELL&#xA;Misc. IRTF instrumentation I&amp;rsquo;m an RA for IRTF&#xA;&amp;lsquo;Opihi: Spectre: I also use IRTF&amp;rsquo;s near-IR spectrographs iSHELL (R~55,000) and SpeX (R~2,500) to support my disk imaging campaign with SCExAO on Subaru.</description>
-      <content:encoded><![CDATA[<h2 id="irtf-asm-1">IRTF-ASM-1</h2>
-<p>This includes basic verification&hellip;</p>
+      <description>Currently, I work with Mike Connelley as an RA for the NASA Infrared Telescope Facility (IRTF) to support the facilitization of a new type of adaptive secondary mirror (ASM). I also split my time as an RA for Mark Chun to investigate the long-term behavior of the ASM and investigate methods of controlling mechanical resonances on large deformable mirrors. Finally, I perform observations of protoplanetary disks with SCExAO to study star and planet formation from its earliest stages.</description>
+      <content:encoded><![CDATA[<p>Currently, I work with Mike Connelley as an RA for the NASA Infrared Telescope
+Facility (IRTF) to support the facilitization of a new type of adaptive secondary
+mirror (ASM). I also split my time as an RA for Mark Chun to investigate the long-term
+behavior of the ASM and investigate methods of controlling mechanical resonances
+on large deformable mirrors. Finally, I perform observations of protoplanetary
+disks with SCExAO to study star and planet formation from its earliest stages.</p>
+<h2 id="a-new-type-of-adaptive-secondary-mirror-for-irtf">A new type of adaptive secondary mirror for IRTF</h2>
+<p>My current position is as an RA for IRTF to support the adaptive secondary
+mirror and low-order wavefront sensor FELIX, which will allow us to investigate
+gains to the performance of our science instruments with active optics correction.
+As part of my dissertation, I will investigate the long-term behavior of these
+actuators in a telescope environment and control of mechanical resonances</p>
+<p align="center">
+  <img src="/research/irtf-1.jpg" alt="IRTF-ASM-1"/>
+</p>
 <ul>
-<li>my SPIE paper</li>
-<li>Suz&rsquo;s close loop paper
+<li><a href="https://arxiv.org/abs/2407.06444">my SPIE paper</a></li>
+<li>Suz&rsquo;s close loop paper</li>
+<li>Arjo&rsquo;s paper
 I am also working to facilitize IRTF&rsquo;s adaptive secondary mirror (ASM) with the off-axis facility guider FELIX.</li>
 </ul>
 <h2 id="disk-imaging">Disk imaging</h2>
 <p>SCExAO NIR WFS</p>
 <h2 id="other-projects">Other Projects</h2>
-<h3 id="high-resolution-spectroscopy-of-fu-orionis-objects">High-resolution spectroscopy of FU Orionis objects</h3>
-<p>iSHELL</p>
 <h3 id="misc-irtf-instrumentation">Misc. IRTF instrumentation</h3>
 <p>I&rsquo;m an RA for IRTF</p>
 <ul>
@@ -36,22 +48,9 @@ I am also working to facilitize IRTF&rsquo;s adaptive secondary mirror (ASM) wit
 <li><a href="http://irtfweb.ifa.hawaii.edu/~spectre/">Spectre:</a></li>
 </ul>
 <p>I also use IRTF&rsquo;s near-IR spectrographs iSHELL (R~55,000) and SpeX (R~2,500)
-to support my disk imaging campaign with SCExAO on Subaru. I&rsquo;ve touched
-almost every instrument on IRTF at this point&hellip; Just need an excuse to
-observe in the mid-infrared with MIRSI..</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Tools</title>
-      <link>http://localhost:1313/pages/tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
-      <guid>http://localhost:1313/pages/tools/</guid>
-      <description>asmtools ABCD&#xA;elgyem This package isn&amp;rsquo;t availalbe on pip for export control reasons, but the source code is available at this repository.</description>
-      <content:encoded><![CDATA[<h2 id="asmtools">asmtools</h2>
-<p>ABCD</p>
-<h2 id="elgyem">elgyem</h2>
-<p>This package isn&rsquo;t availalbe on pip for export control reasons, but the source
-code is available at this repository.</p>
+to support my disk imaging campaign with SCExAO on Subaru.</p>
+<h3 id="near-ir-spectroscopy-of-fu-orionis-objects">Near-IR spectroscopy of FU Orionis objects</h3>
+<p>iSHELL</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -59,18 +58,20 @@ code is available at this repository.</p>
       <link>http://localhost:1313/pages/outreach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
       <guid>http://localhost:1313/pages/outreach/</guid>
-      <description>Communicating science to the public is especially important in Hawai&amp;rsquo;i, where we have the enormous privilege of observing from Maunakea. Here are the main activities that I&amp;rsquo;m involved with:&#xA;Maunakea scholars JTTU Astroday SciOly Other than that, I regularly participate in outreach events around the Big Island. </description>
-      <content:encoded><![CDATA[<p>Communicating science to the public is especially important in Hawai&rsquo;i,
-where we have the enormous privilege of observing from Maunakea. Here
-are the main activities that I&rsquo;m involved with:</p>
+      <description>Activities Communicating science to the public is especially important in Hawai&amp;rsquo;i, where we have the enormous privilege of observing from Maunakea. Here are the main activities that I&amp;rsquo;m involved with:&#xA;Maunakea scholars JTTU Astroday Science Olympiad at the University of Hawai&amp;rsquo;i: I was also involved in Science Olympiad as an undergraduate. Other than that, I regularly participate in outreach events around the Big Island.&#xA;Mentoring </description>
+      <content:encoded><![CDATA[<h2 id="activities">Activities</h2>
+<p>Communicating science to the public is especially important in Hawai&rsquo;i, where we
+have the enormous privilege of observing from Maunakea. Here are the main activities
+that I&rsquo;m involved with:</p>
 <ul>
 <li>Maunakea scholars</li>
 <li>JTTU</li>
 <li>Astroday</li>
-<li>SciOly
-Other than that, I regularly participate in outreach events around the
-Big Island.</li>
+<li>Science Olympiad at the University of Hawai&rsquo;i: I was also involved in Science
+Olympiad as an undergraduate.</li>
 </ul>
+<p>Other than that, I regularly participate in outreach events around the Big Island.</p>
+<h2 id="mentoring">Mentoring</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -78,20 +79,21 @@ Big Island.</li>
       <link>http://localhost:1313/pages/potpourri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
       <guid>http://localhost:1313/pages/potpourri/</guid>
-      <description>my friends Click here to see some awesome atmospheric phenomena&#xA;ancient history As an undergraduate1, I worked on submm/far-IR instrumentation with Gordon Stacey. Most of my work was optomechanical design, although I ended up touching a lot of different projects during my 3 years in that lab. Here are a few highlights:&#xA;EoR-Spec: ZEUS-2: HIRMES: Rest in peace. I also had a brief stint working at NASA GSFC. The summer before I advanced to candidacy, I worked with Terra Hardwick in the Mars Sample Return (MSR) Capture, Containment and Return System (CCRS) Vision System (VS) lab (phew&amp;hellip; NASA sure loves complicated acronyms).</description>
-      <content:encoded><![CDATA[<h2 id="my-friends">my friends</h2>
-<p><img alt="my bookshelf is full of dragons" src="/friends.png"></p>
-<p><a href="../clouds">Click here</a> to see some awesome atmospheric phenomena</p>
+      <description>background I (pronouns: she/her) grew up in San Diego County with my wonderful parents and my sibling Mael, who are the most important people to me in the world. I flew six hours to the east and attended Cornell University to earn a B.S. in Engineering Physics. Upon graduating, I went six hours to the west for my Ph.D. and ended up in the middle of the Pacific at IfA Hilo.</description>
+      <content:encoded><![CDATA[<h2 id="background">background</h2>
+<p>I (pronouns: she/her) grew up in <a href="/other/bonita.jpg">San Diego County</a> with my
+<a href="/other/mom.jpg">wonderful</a> <a href="/other/dad.jpg">parents</a> and my sibling <a href="/other/mael.jpg">Mael</a>,
+who are the most important people to me in the world. I flew six hours to the east
+and attended Cornell University to earn a B.S. in <a href="/other/aep.jpg">Engineering Physics</a>.
+Upon graduating, I went six hours to the west for my Ph.D. and ended up in
+<a href="/other/suz.jpg">the middle of the Pacific</a> at IfA Hilo.</p>
+<h2 id="my-friends">my friends</h2>
+<p><img alt="dragons in bookshelf" src="/other/friends.jpg"></p>
+<p><a href="../clouds">Awesome atmospheric phenomena</a></p>
 <h2 id="ancient-history">ancient history</h2>
-<p>As an undergraduate<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, I worked on submm/far-IR
-instrumentation with Gordon Stacey. Most of my work was optomechanical
-design, although I ended up touching a lot of different projects during
-my 3 years in that lab. Here are a few highlights:</p>
-<ul>
-<li>EoR-Spec:</li>
-<li>ZEUS-2:</li>
-<li>HIRMES: Rest in peace.</li>
-</ul>
+<p>As an undergraduate<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, I worked on submm/far-IR instrumentation with Gordon
+Stacey. I ended up touching many different projects during the 3 years I had there.
+Notably, I worked on optomechanical designs for EoR-Spec, HIRMES, and ZEUS-2.</p>
 <p>I also had a brief stint working at NASA GSFC. The summer before I advanced
 to candidacy, I worked with Terra Hardwick in the Mars Sample Return (MSR)
 Capture, Containment and Return System (CCRS) Vision System (VS) lab
@@ -99,8 +101,8 @@ Capture, Containment and Return System (CCRS) Vision System (VS) lab
 package that automatically preprocesses image data generated with FRED
 and trains a convolutional neural network to perform orientation checks
 of the orbiting Mars samples.</p>
-<p>I feel very fortunate to have worked with wonderful people at the earliest
-stages of my academic career. Thanks for everything, everyone! &lt;3</p>
+<p>I feel very fortunate to have worked with kind people at the earliest stages of
+my academic career. Thanks for everything, everyone! &lt;3</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -108,21 +110,90 @@ stages of my academic career. Thanks for everything, everyone! &lt;3</p>
 <p>I technically started even earlier than this.
 When I was in high school, I volunteered UCSD for a few weeks to fabricate
 lenslet arrays for POLARBEAR-2. I didn&rsquo;t know anything about instrumenation
-at the time, let alone that I would end up going into this field (albeit
-at shorter wavelengths). Those were the days&hellip;&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+at the time, let alone that I would end up in this field albeit
+at shorter wavelengths!&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>First light of IRTF-ASM-1</title>
-      <link>http://localhost:1313/blog/20240423_first_light/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
-      <guid>http://localhost:1313/blog/20240423_first_light/</guid>
-      <description>IRTF-1 had first light on.</description>
-      <content:encoded><![CDATA[<p>IRTF-1 had first light on.</p>
-<p><img alt="group photo in front of IRTF after first light of IRTF-ASM-1" src="/blog/20240423_FKamphues_group.jpg"></p>
+      <title>First light of IRTF&#39;s adaptive secondary mirror</title>
+      <link>http://localhost:1313/blog/20240428_first_light/</link>
+      <pubDate>Sun, 28 Apr 2024 00:52:41 -1000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
+      <guid>http://localhost:1313/blog/20240428_first_light/</guid>
+      <description>We successfully completed our first engineering run with IRTF-ASM-1 on Friday. This marks a number of milestones:&#xA;IRTF achieved stable diffraction-limited image quality for the first time. IRTF-ASM-1 is the first adaptive secondary mirror on Maunakea. This is the first on-sky demonstration of the hybrid-variable reluctance actuator technology developed by TNO. Overall, the run went exceptionally well despite the highly compressed timeline of this project. We obtained closed-loop, diffraction-limited images (Strehl ~ 40% in H-band over 5 minutes of integration) and successfully ran the system under a variety of seeing conditions (0.</description>
+      <content:encoded><![CDATA[<p>We successfully completed our first engineering run with IRTF-ASM-1 on Friday.
+This marks a number of milestones:</p>
+<ul>
+<li>IRTF achieved stable diffraction-limited image quality for the first time.</li>
+<li>IRTF-ASM-1 is the first adaptive secondary mirror on Maunakea.</li>
+<li>This is the first on-sky demonstration of the hybrid-variable reluctance actuator
+technology developed by TNO.</li>
+</ul>
+<p>Overall, the
+run went exceptionally well despite <a href="/blog/20240428/Mikroniek-2024.pdf">the highly compressed timeline</a>
+of this project. We obtained closed-loop, diffraction-limited images (Strehl ~ 40%
+in H-band over 5 minutes of integration) and successfully ran the system under a
+variety of seeing conditions (0.4&quot; to 0.9&quot;). The first light image was acquired
+on <a href="https://blog.bishopmuseum.org/history/hokulea/">Hokule&rsquo;a</a>, which is a tradition
+at IRTF.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p align="center">
+  <img src="/blog/20240428/hokulea_irtf-1.jpg" alt="snapshot closed loop on Hokule'a"/>
+</p>
+<p>We had a great team of people all around, including our collaborators at TNO, UCSC,
+and IRTF staff. Special thanks in no particular order:</p>
+<ul>
+<li>IRTF day crew: Paul, Keith, Dwight, Jun, and Darryl supported major work at the
+telescope for several months and on short notice.</li>
+<li>Our director: John has been very generous with observing time and funding for
+the ASM and has been working to balance that with IRTF science.</li>
+<li>Telescope operators and assistants: Brian, Bernie, and Frankie supported our
+observations the three nights.</li>
+<li>TNO: Fred and Saunder took a long flight from the Netherlands to document this
+process for National Geographic. Max also joined remotely to help debug the controllers.</li>
+<li>Olivier flew in from France to support the first two runs and has helped us
+with lab testing as well.</li>
+<li>IfA Hilo: Suzanne, Mike, and Mark have kept me sane in the lab.</li>
+</ul>
+<p><img alt="group photo in front of IRTF after first light of IRTF-ASM-1; credit: Fred Kamphues" src="/blog/20240428/FKamphues_group.jpg"></p>
+<p>The run started on the morning of April 23. The day crew performed a top end
+exchange to put the ASM on the telescope. We closed the loop around 2 AM on the
+first night after dealing with alignment issues, and the RTC fighting the facility
+guider. The run ended on April 26 after three full, productive nights at the
+telescope.</p>
+<p>We have a ton of data to analyze over the coming weeks, both for presenting basic
+on-sky functionality at SPIE and FELIX-like (fast low-order + slow high-order)
+correction for my dissertation. Not bad considering that we recieved the ASM from
+TNO in mid-February! It&rsquo;s hard to believe that that things went so smoothly given
+all of the problems that even mature adaptive optics systems tend to have, let
+alone a new technology.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Because we were worried about flexure, we also got away
+with disassembling and reconfiguring the entire wavefront sensor breadboard ~2
+weeks before the run began&hellip; The past few weeks have felt like months to me.</p>
+<p>Last but certainly not least, the weather was cooperative. The sky was clear
+throughout the run. As we were leaving the summit after our last night at IRTF,
+we could see cirrus clouds starting to come over the horizon. Talk about good
+luck!</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Definitely not a coincidence and totally planned on my part. Hokule&rsquo;a (known
+to most in the West as <a href="https://en.wikipedia.org/wiki/Arcturus">Arcturus</a> or
+<a href="http://simbad.cds.unistra.fr/simbad/sim-id?Ident=alf+boo">α Boo</a>) is a
+prime first light target because it&rsquo;s <em>very</em> bright and goes through zenith at
+Hawai&rsquo;i&rsquo;s latitude. The same reasons make it important for Polynesian navigation.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Lots of firsts this run. The response of the ASM is somewhat slow due to the
+thickness of the facesheet. The seeing makes it difficult create interaction matrices
+on-sky by poking individual actuators and we don&rsquo;t have an intermediate focal plane
+to work with at IRTF. Olivier came up with a new method to generate interaction
+matrices by sinusoidally modulating the actuators. This method (CACOFONI) will be
+described in an upcoming paper.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -130,20 +201,23 @@ at shorter wavelengths). Those were the days&hellip;&#160;<a href="#fnref:1" cla
       <link>http://localhost:1313/pages/clouds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
       <guid>http://localhost:1313/pages/clouds/</guid>
-      <description>Check out the Maunakea Weather Center. They have webcams of the summit and interesting meterological information in their forecasts.&#xA;lenticular clouds Have you ever been in 70 mph winds at 14,000 ft above sea level? No? Good. It&amp;rsquo;s pretty dangerous, especially if there&amp;rsquo;s ice on the road.&#xA;Here are some cool ones above Hilo&#xA;nice inversion layer atmospheric optics 22 degree haloes Sun dog I have no idea what&amp;rsquo;s going on here but it looks great </description>
-      <content:encoded><![CDATA[<p><a href="http://mkwc.ifa.hawaii.edu/">Check out the Maunakea Weather Center.</a> They have
+      <description>the atmosphere Check out the Maunakea Weather Center. They have webcams of the summit and interesting meterological information in their forecasts.&#xA;lenticular clouds Have you ever been in 70 mph winds at 14,000 ft above sea level? (Please say &amp;ldquo;no.&amp;rdquo;) It&amp;rsquo;s pretty dangerous, especially if there&amp;rsquo;s ice on the road.&#xA;Here are some cool ones above Hilo&#xA;nice inversion layer When the clouds are low and flat like this, it means that seeing is probably going to be good.</description>
+      <content:encoded><![CDATA[<h1 id="the-atmosphere">the atmosphere</h1>
+<p><a href="http://mkwc.ifa.hawaii.edu/">Check out the Maunakea Weather Center.</a> They have
 webcams of the summit and interesting meterological information in their forecasts.</p>
 <h2 id="lenticular-clouds">lenticular clouds</h2>
-<p>Have you ever been in 70 mph winds at 14,000 ft above sea level? No? Good. It&rsquo;s
-pretty dangerous, especially if there&rsquo;s ice on the road.</p>
-<p><img alt="lenticular clouds above Saddle Road" src="/atmosphere/lenticular-5.jpeg">
-<img alt="more lenticular clouds above Saddle Road" src="../../../assets/atmosphere/lenticular-7.jpeg"></p>
+<p>Have you ever been in 70 mph winds at 14,000 ft above sea level? (Please say &ldquo;no.&rdquo;)
+It&rsquo;s pretty dangerous, especially if there&rsquo;s ice on the road.</p>
+<p><img alt="lenticular clouds above Saddle Road" src="/atmosphere/lenticular-5.jpeg"></p>
 <p>Here are some cool ones above Hilo</p>
 <p><img alt="lenticular clouds above IfA Hilo" src="/atmosphere/lenticular-1.jpeg">
-<img alt="more lenticular clouds above IfA Hilo" src="/atmosphere/lenticular-3.jpeg">
-<img alt="even more lenticular clouds above IfA Hilo" src="/assets/atmosphere/lenticular-4.jpeg"></p>
+<img alt="more lenticular clouds above IfA Hilo" src="/atmosphere/lenticular-3.jpeg"></p>
 <h2 id="nice-inversion-layer">nice inversion layer</h2>
-<p><img alt="Layer of clouds below Maunakea" src="/atmosphere/clouds_maunakea-2.jpeg"></p>
+<p>When the clouds are low and flat like this, it means that seeing is probably going
+to be good.
+<img alt="Layer of clouds below Maunakea" src="/atmosphere/clouds_maunakea-2.jpeg">
+The image below certainly looks more interesting, but it&rsquo;s likely that there
+is more atmospheric turbulence.</p>
 <h2 id="atmospheric-optics">atmospheric optics</h2>
 <p>22 degree haloes
 <img alt="22 degree halo above San Diego" src="/atmosphere/halo-1.jpeg">

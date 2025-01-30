@@ -1,26 +1,31 @@
 ---
 title: the atmosphere
+menu: "none"
 ---
+
+# the atmosphere
 
 [Check out the Maunakea Weather Center.](http://mkwc.ifa.hawaii.edu/) They have
 webcams of the summit and interesting meterological information in their forecasts.
 
 ## lenticular clouds
-Have you ever been in 70 mph winds at 14,000 ft above sea level? No? Good. It's
-pretty dangerous, especially if there's ice on the road.
+Have you ever been in 70 mph winds at 14,000 ft above sea level? (Please say "no.")
+It's pretty dangerous, especially if there's ice on the road.
 
 ![lenticular clouds above Saddle Road](/atmosphere/lenticular-5.jpeg)
-![more lenticular clouds above Saddle Road](../../../assets/atmosphere/lenticular-7.jpeg)
 
 Here are some cool ones above Hilo
 
 ![lenticular clouds above IfA Hilo](/atmosphere/lenticular-1.jpeg)
 ![more lenticular clouds above IfA Hilo](/atmosphere/lenticular-3.jpeg)
-![even more lenticular clouds above IfA Hilo](/assets/atmosphere/lenticular-4.jpeg)
 
 
 ## nice inversion layer
+When the clouds are low and flat like this, it means that seeing is probably going
+to be good.
 ![Layer of clouds below Maunakea](/atmosphere/clouds_maunakea-2.jpeg)
+The image below certainly looks more interesting, but it's likely that there
+is more atmospheric turbulence.
 
 ## atmospheric optics
 22 degree haloes
