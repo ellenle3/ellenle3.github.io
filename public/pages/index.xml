@@ -33,7 +33,8 @@ actuators in a telescope environment and control of mechanical resonances</p>
 </p>
 <ul>
 <li><a href="https://arxiv.org/abs/2407.06444">my SPIE paper</a></li>
-<li>Suz&rsquo;s close loop paper
+<li>Suz&rsquo;s close loop paper</li>
+<li>Arjo&rsquo;s paper
 I am also working to facilitize IRTF&rsquo;s adaptive secondary mirror (ASM) with the off-axis facility guider FELIX.</li>
 </ul>
 <h2 id="disk-imaging">Disk imaging</h2>
@@ -46,9 +47,7 @@ I am also working to facilitize IRTF&rsquo;s adaptive secondary mirror (ASM) wit
 <li><a href="http://irtfweb.ifa.hawaii.edu/~spectre/">Spectre:</a></li>
 </ul>
 <p>I also use IRTF&rsquo;s near-IR spectrographs iSHELL (R~55,000) and SpeX (R~2,500)
-to support my disk imaging campaign with SCExAO on Subaru. I&rsquo;ve touched
-almost every instrument on IRTF at this point&hellip; Just need an excuse to
-observe in the mid-infrared with MIRSI..</p>
+to support my disk imaging campaign with SCExAO on Subaru.</p>
 <h3 id="near-ir-spectroscopy-of-fu-orionis-objects">Near-IR spectroscopy of FU Orionis objects</h3>
 <p>iSHELL</p>
 ]]></content:encoded>
@@ -58,7 +57,7 @@ observe in the mid-infrared with MIRSI..</p>
       <link>http://localhost:1313/pages/outreach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
       <guid>http://localhost:1313/pages/outreach/</guid>
-      <description>Activities Communicating science to the public is especially important in Hawai&amp;rsquo;i, where we have the enormous privilege of observing from Maunakea. Here are the main activities that I&amp;rsquo;m involved with:&#xA;Maunakea scholars JTTU Astroday Science Olympiad at the University of Hawai&amp;rsquo;i: I was also involved in Science Olympiad as an undergraduate. Other than that, I regularly participate in outreach events around the Big Island.&#xA;Mentoring </description>
+      <description>Activities Communicating science to the public is especially important in Hawai&amp;rsquo;i, where we have the enormous privilege of observing from Maunakea. Here are the main activities that I&amp;rsquo;m involved with:&#xA;Maunakea scholars JTTU Astroday Science Olympiad at the University of Hawai&amp;rsquo;i: I was also involved in Science Olympiad as an undergraduate. Other than that, I regularly participate in outreach events around the Big Island.&#xA;Mentoring I&amp;rsquo;ve mentored a few students as well!</description>
       <content:encoded><![CDATA[<h2 id="activities">Activities</h2>
 <p>Communicating science to the public is especially important in Hawai&rsquo;i, where we
 have the enormous privilege of observing from Maunakea. Here are the main activities
@@ -72,6 +71,7 @@ Olympiad as an undergraduate.</li>
 </ul>
 <p>Other than that, I regularly participate in outreach events around the Big Island.</p>
 <h2 id="mentoring">Mentoring</h2>
+<p>I&rsquo;ve mentored a few students as well!</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -79,9 +79,9 @@ Olympiad as an undergraduate.</li>
       <link>http://localhost:1313/pages/potpourri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
       <guid>http://localhost:1313/pages/potpourri/</guid>
-      <description>background I (pronouns: she/her) grew up in San Diego County1 with my wonderful parents and my sibling Mael, who are the most important people to me in the world. I flew six hours to the east and attended Cornell University to earn a B.S. in Engineering Physics. Upon graduating, I went six hours to the west for my Ph.D. and ended up in the middle of the Pacific at IfA Hilo.</description>
+      <description>background I (pronouns: she/her) grew up in San Diego County with my wonderful parents and my sibling Mael, who are the most important people to me in the world. I flew six hours to the east and attended Cornell University to earn a B.S. in Engineering Physics. Upon graduating, I went six hours to the west for my Ph.D. and ended up in the middle of the Pacific at IfA Hilo.</description>
       <content:encoded><![CDATA[<h2 id="background">background</h2>
-<p>I (pronouns: she/her) grew up in <a href="/other/bonita.jpg">San Diego County</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> with my
+<p>I (pronouns: she/her) grew up in <a href="/other/bonita.jpg">San Diego County</a> with my
 <a href="/other/mom.jpg">wonderful</a> <a href="/other/dad.jpg">parents</a> and my sibling <a href="/other/mael.jpg">Mael</a>,
 who are the most important people to me in the world. I flew six hours to the east
 and attended Cornell University to earn a B.S. in <a href="/other/aep.jpg">Engineering Physics</a>.
@@ -91,7 +91,7 @@ Upon graduating, I went six hours to the west for my Ph.D. and ended up in
 <p><img alt="dragons in bookshelf" src="/other/friends.jpg"></p>
 <p><a href="../clouds">Awesome atmospheric phenomena</a></p>
 <h2 id="ancient-history">ancient history</h2>
-<p>As an undergraduate<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, I worked on submm/far-IR instrumentation with Gordon
+<p>As an undergraduate<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, I worked on submm/far-IR instrumentation with Gordon
 Stacey. I ended up touching many different projects during the 3 years I had there.
 Notably, I worked on optomechanical designs for EoR-Spec, HIRMES, and ZEUS-2.</p>
 <p>I also had a brief stint working at NASA GSFC. The summer before I advanced
@@ -107,14 +107,11 @@ my academic career. Thanks for everything, everyone! &lt;3</p>
 <hr>
 <ol>
 <li id="fn:1">
-<p>Chula Vista/Bonita.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2">
 <p>I technically started even earlier than this.
 When I was in high school, I volunteered UCSD for a few weeks to fabricate
 lenslet arrays for POLARBEAR-2. I didn&rsquo;t know anything about instrumenation
 at the time, let alone that I would end up in this field albeit
-at shorter wavelengths!&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+at shorter wavelengths!&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>
