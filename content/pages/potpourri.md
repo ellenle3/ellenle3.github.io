@@ -1,6 +1,6 @@
 ---
 title: "potpourri"
-menu: "main"
+menu: "none"
 weight: 100
 ---
 
