@@ -1,6 +1,6 @@
 ---
 title: "Outreach"
-menu: "main"
+menu: "none"
 weight: 30
 ---
 

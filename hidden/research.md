@@ -1,6 +1,6 @@
 ---
 title: "Research"
-menu: "main"
+menu: "none"
 weight: 10
 ---
 

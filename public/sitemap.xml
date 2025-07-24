@@ -5,12 +5,6 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-04-28T00:52:41-10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/research/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pages/outreach/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pages/potpourri/</loc>
-  </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-04-28T00:52:41-10:00</lastmod>
   </url><url>
@@ -19,10 +13,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pages/clouds/</loc>
   </url>
 </urlset>

@@ -1,6 +1,6 @@
 ---
 title: "Tools"
-menu: "main"
+menu: "none"
 weight: 20
 draft: true
 ---
