@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ellenle3.github.io/</loc>
     <lastmod>2025-07-23T16:21:55-10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://ellenle3.github.io/blog/</loc>
     <lastmod>2025-07-23T16:21:55-10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/20250723_7as/</loc>
+    <loc>https://ellenle3.github.io/blog/20250723_7as/</loc>
     <lastmod>2025-07-23T16:21:55-10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/20240428_first_light/</loc>
+    <loc>https://ellenle3.github.io/blog/20240428_first_light/</loc>
     <lastmod>2024-04-28T00:52:41-10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ellenle3.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ellenle3.github.io/tags/</loc>
   </url>
 </urlset>
