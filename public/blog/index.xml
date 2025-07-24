@@ -9,8 +9,26 @@
     <managingEditor>ellenlee@hawaii.edu (Ellen Lee)</managingEditor>
     <webMaster>ellenlee@hawaii.edu (Ellen Lee)</webMaster>
     <copyright>Ellen Lee (CC BY 4.0)</copyright>
-    <lastBuildDate>Sun, 28 Apr 2024 00:52:41 -1000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 16:21:55 -1000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seven arcsecond seeing</title>
+      <link>http://localhost:1313/blog/20250723_7as/</link>
+      <pubDate>Wed, 23 Jul 2025 16:21:55 -1000</pubDate><author>ellenlee@hawaii.edu (Ellen Lee)</author>
+      <guid>http://localhost:1313/blog/20250723_7as/</guid>
+      <description>We just came out of an observing run with the IRTF ASM. The weather&amp;hellip; wasn&amp;rsquo;t great&amp;hellip; but we were able to obtain useful data. One night Subaru reported 7&amp;quot; seeing.&#xA;Our 12x12 Shack-Hartmann wavefront sensor looked like wind blowing through a field of wheat. For reference, the subapertures are 4.5&amp;quot; across and the spots usually look like this: I would share focal plane data but on-target images look more like flat fields.</description>
+      <content:encoded><![CDATA[<p>We just came out of an observing run with the IRTF ASM. The weather&hellip; wasn&rsquo;t great&hellip;
+but we were able to obtain useful data. One night Subaru reported <strong>7&quot;</strong> seeing.</p>
+<p>Our 12x12 Shack-Hartmann wavefront sensor looked like wind blowing through a
+field of wheat.
+<img alt="12x12 grid superimposed on what should be a grid of spots but instead looks like a coral reef" src="/blog/20250723/12x12horrible.png"></p>
+<p>For reference, the subapertures are 4.5&quot; across and the spots usually look like
+this:
+<img alt="12x12 grid with an image of the star in each subaperture, each of which looks like nice, small point" src="/blog/20250723/12x12spots.png"></p>
+<p>I would share focal plane data but on-target images look more like flat fields.
+Some conditions are so miserable that they wrap around to being spectacular!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>First light of IRTF&#39;s adaptive secondary mirror</title>
       <link>http://localhost:1313/blog/20240428_first_light/</link>
