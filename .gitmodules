@@ -1,0 +1,9 @@
+[submodule "themes/xmin"]
+	path = themes/xmin
+	url = https://github.com/yihui/hugo-xmin
+[submodule "themes/etch"]
+	path = themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
+[submodule "themes/bearcub"]
+	path = themes/bearcub
+	url = https://github.com/clente/hugo-bearcub.git

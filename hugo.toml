@@ -1,0 +1,16 @@
+baseURL = 'https://ellenle3.github.io'
+languageCode = 'en-us'
+title = 'Ellen Lee'
+theme = 'etch'
+
+[menu]
+
+  [[menu.main]]
+    name = "Outreach"
+    url = "/outreach/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Tools"
+    url = "/tools/"
+    weight = 2
